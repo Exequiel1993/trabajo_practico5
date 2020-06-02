@@ -1,0 +1,14 @@
+
+#Cliente 1
+
+Nombre y Apellido: Fulanito Perez
+Fecha de Nacimiento: 25/03/1992
+Estado Civil : Casado
+Profesion: Arquitecto
+
+#Cliente 2
+
+Nombre y Apellido: Jose Ramirez
+Fecha de Nacimiento: 14/11/1984
+Estado Civil : Soltero
+Profesion: Mecanico
